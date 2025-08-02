@@ -3,7 +3,8 @@
 }
 body {
   font-family: "Poppins", sans-serif;
-  background-color: rgb(59, 93, 166);
+  background-color: rgb(10, 33, 82);
+  margin: 20px;
 }
 .container {
   max-width: 1400px;
@@ -11,6 +12,7 @@ body {
 }
 .text-center {
   text-align: center;
+  margin: 0;
 }
 .grid {
   display: grid;
